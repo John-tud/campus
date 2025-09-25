@@ -13,6 +13,9 @@
     <img src="https://wallpapercave.com/wp/EZ9swSJ.jpg" alt="Cool car">
   </p>  
 </body>
+<button type="button">
+Search!
+</button>
   
 </html>
 
