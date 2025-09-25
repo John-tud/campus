@@ -12,7 +12,7 @@
     <a href="about.html">About Us</a>
     <a href="contact.html">Contact</a>
   </nav>
-  <!-- Add more content here -->
+  <p> More stuff will be added to the home page soon</p>
 </body>
 </html>
 
