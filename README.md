@@ -13,6 +13,7 @@
     <a href="contact.html">Contact</a>
   </nav>
   <p> More stuff will be added to the home page soon</p>
+  <button type="button">Search</button>
 </body>
 </html>
 
