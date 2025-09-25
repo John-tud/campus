@@ -2,7 +2,7 @@
 <html lang = "en">
 <html>
   <title>
-    Wheels on fire
+    <b>Wheels on fire</b>
   </title>
   <head>  
   <base href="https://www.tudublin.ie/" target="_blank">
