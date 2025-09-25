@@ -4,7 +4,9 @@
   <title>
     <b>Wheels on fire</b>
   </title>
-  <head>  
+  <head> 
+    <meta charset= "UTF-8">
+    <meta name = "viewport" content="width=width-device, intial-scale=1.0">
   <base href="https://www.tudublin.ie/" target="_blank">
 </head>
 
