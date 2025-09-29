@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <h1>Wheels on Fire</h1>
   <style>
-    
+     h1 {
+      color: blue;
+      text-align: center;
+    }
   </style>
 <nav>
             <ul>
