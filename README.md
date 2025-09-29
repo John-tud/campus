@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <h1>Wheels on Fire</h1>
   <style>
      h1 {
       color: blue;
       text-align: center;
     }
   </style>
+  <h1>Wheels on Fire</h1>
 <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
