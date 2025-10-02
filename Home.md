@@ -7,8 +7,8 @@
   <h1>Wheels on Fire</h1>
 <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#About.md">About Us</a></li>
+                <li><a href="Home.md">Home</a></li>
+                <li><a href="About.md">About Us</a></li>
                 <li><a href="Contact.md">Contact</a></li>
             </ul>
         </nav>
