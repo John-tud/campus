@@ -19,15 +19,6 @@
   </section>
   <br>
   
- 
-  <section id = "contact">
-  <h2> Contact</h2>
-  <li>E-mail</li>
-  <p>Wheelsonfire@hotmail.ie</p>
-  <li>Phone Number</li>
-  <p>0832275649</p>
-  </section>
-  
   
   
 </body>
