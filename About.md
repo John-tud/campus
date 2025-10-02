@@ -14,7 +14,7 @@
    
   <br>
   <li> About the buisness </li>
-  <p>Founded in 2006, Wheels on Fire originated as a humble mechanic shop in Dublin, Ireland. What started as a small operation driven by John's vision and hands-on expertise has grown into a thriving enterprise with three large, state-of-the-art locations across the region. Each shop is equipped with cutting-edge tools and staffed by highly trained technicians who share John's dedication to quality and precision. Specializing in automotive repair, maintenance, and customization, Wheels on Fire has built a reputation for reliability, transparency, and exceptional service. </p>
+  <p>Founded in 2006, Wheels on Fire originated as a humble mechanic shop in Dublin, Ireland. What started as a small operation driven by John's vision and hands-on expertise has grown into a thriving enterprise with three large, state-of-the-art locations across the region. Each shop is equipped with cutting-edge tools and staffed by highly trained technicians who share John's dedication to quality and precision. Specializing in automotive repair, maintenance, customization, and now the sale and resale of automobiles, Wheels on Fire has built a reputation for reliability, transparency, and exceptional service. </p>
   <br>
   </section>
 
