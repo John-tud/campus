@@ -13,7 +13,7 @@
 <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Us</a></li>
+                <li><a href="#About us.md">About Us</a></li>
                 <li><a href="Contact.md">Contact</a></li>
             </ul>
         </nav>
