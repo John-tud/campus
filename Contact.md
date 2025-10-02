@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Contact Page</h1> 
-    <p>This is the Contact Page</p>
+    <p>This is the Contact Page </p>
     
   <h2> Contact</h2>
   <li>E-mail</li>
