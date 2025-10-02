@@ -16,6 +16,7 @@
 <body>
   <section id = "home">
   <h2>Home Page</h2>
+    <h2><b>Welcome to the Home Page</b></h2>
   </section>
   <br>
   
