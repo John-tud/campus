@@ -11,7 +11,7 @@
  <section id ="about">
   <h2>About Us></h2>
   <li>Founder</li>
-  <p>Wheels on Fire was founded by the ambitious CEO named John O' Reilly. He was born into a family of 3 brothers and a signle father named Michael. John grew his passion for cars through his father. Michael was a mechanic in Ballyfermot, and loved bringing his soon to work. Here John and his brother were taught the way of being a mechnaic.</p>
+  <p>  Wheels on Fire was founded by our ambitious CEO named John O'Reilly. Born as the youngest of four boys, and raised by a single father John had to fight for every scrap from a young age, this gave birth to his drive and ruthlessness, key ingredients to be successful in business. John grew his passion for cars through his father Michael, who was a mechanic and loved bringing his sons to work. It was here that John and his brothers learned the importance of hard work. </p>
   <br>
   <li> About the buisness </li>
   <p>The business was founded in 2006. What started off a small mechanic shop beside the long mile road has now expanded to 3 large shops. With the future looking bright, the business will look to expand. We are beginning this expansion by creating a website, which is in it consturctions and will be availabel on the 8th of October </p>
