@@ -12,6 +12,6 @@
   </section>
     </details>
   <ul>
-    <li>John: <span class="tel">086546652></span></li>
+    <li>John: <span class="tel">086546652</span></li>
   </body>
 </html>
