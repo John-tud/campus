@@ -11,6 +11,7 @@
   <ul>
     <li>John: <span class="tel">086546652</span></li>
     <li>Jacob: <span class="tel">086546652</span></li>
+    <hr>
       <li>E-mail</li>
   <p>Wheelsonfire@hotmail.ie</p>
   </body>
