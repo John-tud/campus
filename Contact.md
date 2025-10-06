@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <button type="button">Click Me!</button>
+    <form>  
+  <fieldset><legend>Registration:</legend>    Name: <input type="text"><br>
+   Email: <input type="text"><br>
+   DOB: <input type="text"> 
+ </fieldset>
+</form> 
   </head>
   <body>
         <h2>Contact Page</h2><hr>
