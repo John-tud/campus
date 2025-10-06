@@ -8,6 +8,7 @@
     <p>If you have any queries or would like to contact us you can click on the links below</p>
   </section>
     </details>
+    <hr>
   <ul>
     <li>John: <span class="tel">086546652</span></li>
     <li>Jacob: <span class="tel">086546652</span></li>
