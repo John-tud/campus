@@ -10,8 +10,7 @@
     <p>If you have any queries or would like to contact us you can click on the links below</p>
   </section>
     <form>  
-  <fieldset><legend>Registration:</legend>    
-    Name: <input type="text"><br>
+     Name: <input type="text"><br>
    Email: <input type="text"><br>
    DOB: <input type="text"> 
  </fieldset>
