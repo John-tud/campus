@@ -2,13 +2,14 @@
 <html>
   <head>
     <button type="button">Click Me!</button>
-    <form>  
+    
+  </head>
+  <form>  
   <fieldset><legend>Registration:</legend>    Name: <input type="text"><br>
    Email: <input type="text"><br>
    DOB: <input type="text"> 
  </fieldset>
 </form> 
-  </head>
   <body>
         <h2>Contact Page</h2><hr>
     <p>If you have any queries or would like to contact us you can click on the links below</p>
