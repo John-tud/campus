@@ -22,6 +22,5 @@
   Visit us at:<br>
          <a href="wheelsonfire.com"> Wheels on Fire
 </address>
-           <abbr title="Wheels on Fire">Visit Wheels on fire</abbr>
     </footer>
 </html>
