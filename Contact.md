@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <abbr title="Wheels on Fire">Visit Wheels on fire</abbr>
+    
   </head>
   <body>
         <h2>Contact Page</h2><hr>
@@ -22,5 +22,6 @@
   Visit us at:<br>
          <a href="wheelsonfire.com"> Wheels on Fire
 </address>
+           <abbr title="Wheels on Fire">Visit Wheels on fire</abbr>
     </footer>
 </html>
