@@ -10,8 +10,7 @@
     <p>If you have any queries or would like to contact us you can click on the links below</p>
   <li>E-mail</li>
   <p>Wheelsonfire@hotmail.ie</p>
-  <li>Phone Number</li>
-  <p>0832275649</p>
+  <li>Phone Number</li> <span class="tel">085493065</span>
   </section>
     </details>
   
