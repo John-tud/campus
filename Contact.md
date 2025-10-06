@@ -16,4 +16,10 @@
       <li>E-mail</li>
   <p>Wheelsonfire@hotmail.ie</p>
   </body>
+    <footer>
+      <address>
+  Written by <a href="wheelsonfire@tudublin.ie">Wheels on Fire</a>.<br>
+  Visit us at:<br>
+</address>
+    </footer>
 </html>
