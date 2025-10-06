@@ -7,12 +7,12 @@
 
   <body>
         <h2>Contact Page</h2><hr>
-    <p>If you have any queries or would like to contact us you can click on the links below</p>
+    <p>If you have any queries or would like to contact us you must complete the form below before you can contact us</p>
   </section>
     <form>  
      Name: <input type="text"><br>
    Email: <input type="text"><br>
-   DOB: <input type="text"> 
+   DOB: <input type="text">
  </fieldset>
 </form> 
     </details>
